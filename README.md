@@ -3,9 +3,6 @@
 <br/>
 
 ## 설치
----
-<br/>
-
 ```bash
 // 설치
 yarn install
@@ -18,10 +15,8 @@ yarn build
 ```
 
 ## 설정
----
-### eslint
 
-<br/>
+### eslint
 
 lint는 기본적으로 airbnb 컨벤션을 적용하였습니다. 
 
@@ -40,8 +35,6 @@ lint는 기본적으로 airbnb 컨벤션을 적용하였습니다.
 ```
 
 ### prettier
-
-<br/>
 
 prettier는 기본적으로 많이 사용되는 패턴으로 적용하였습니다.
 
@@ -98,9 +91,6 @@ module.exports = {
 <br/>
 
 ## 설치된 라이브러리
----
-
-<br/>
 
 - `typescript`
 - `styled-components`
