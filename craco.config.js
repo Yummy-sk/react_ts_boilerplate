@@ -1,4 +1,4 @@
-import CracoSwcPyarn lugin from 'craco-swc';
+const CracoSwcPlugin = require('craco-swc');
 
 module.exports = {
   plugins: [
