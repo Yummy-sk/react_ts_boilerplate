@@ -22,7 +22,8 @@
       "error",
       { "argsIgnorePattern": "^_" }
     ],
-    "react/react-in-jsx-scope": "off"
+    "react/react-in-jsx-scope": "off",
+    "import/prefer-default-export": "off"
   },
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
